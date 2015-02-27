@@ -1,6 +1,6 @@
 # d3.chart.defaults
 
-This library is make setting options, and reacting to them, simpler for Miso's [d3.chart](FIXME). 
+This library is make setting options, and reacting to them, simpler for Miso's [d3.chart](http://misoproject.com/d3-chart/). 
 
 ## Setup
 
